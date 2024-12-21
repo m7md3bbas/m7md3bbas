@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**m7md3bbas/m7md3bbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm mohamed, a Software engingeer working on developing mobile apps (flutter) 
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-abbas-5a55a7218/" target="_blank" style="display:inline-block; margin: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100076335909958" target="_blank" style="display:inline-block; margin: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" />
+  </a>
+  
+</p>
 -->
