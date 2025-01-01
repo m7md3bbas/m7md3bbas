@@ -10,6 +10,10 @@ I'm a Software engingeer working on developing mobile apps (flutter)
   <a href="https://www.facebook.com/profile.php?id=100076335909958" target="_blank" style="display:inline-block; margin: 10px;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" />
   </a>
+  <a href="mailto:mhmdabass330@gmail.com" target="_blank" style="display:inline-block; margin: 10px;">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" />
+</a>
+
 </p>
 
 # 📊 GitHub Stats:
