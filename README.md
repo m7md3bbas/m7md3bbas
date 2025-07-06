@@ -5,13 +5,13 @@ I'm a Software engingeer working on developing mobile apps (flutter)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abbas-5a55a7218/" target="_blank" style=" display:inline-block; margin: 10px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width:150; height:150; />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width:30; height:30; />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100076335909958" target="_blank" style="display:inline-block; margin: 10px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width:150; height:150; />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width:30; height:30; />
   </a>
   <a href="mailto:mhmdabass330@gmail.com" target="_blank" style="display:inline-block; margin: 10px;">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width:150; height:150; />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width:30; height:30; />
 </a>
 
 </p>
